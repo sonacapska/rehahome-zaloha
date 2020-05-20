@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Rehahome-Soňa Čapská",
-    "currentPage": "fyzioterapie.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,7 +47,7 @@
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": true,
     "siteUrl": "https://rehahome.cz",
-    "uniqCompNum": 104,
+    "uniqCompNum": 106,
     "versionPublish": "4.11.4",
     "screenshot": "screenshot.png",
     "noImageResize": "true",
@@ -4830,16 +4830,73 @@
             },
             "DIV": {
               "color": "#232323"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote> <b>Make your own website in a few clicks!</b> Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. Mobirise Website Builder creates responsive, retina and <b>mobile friendly websites</b> in a few clicks. Mobirise is one of the easiest website development tools <a href=\"https://mobirise.co/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p>Fyzioterapeutku S.Č. jsme oslovili přes naší známou, když se naše babička po operaci zlomeniny holení kosti vrátila po 10 ti dnech z nemocnice domů a my po pár dnech zjistili, že něco není úplně v pořádku. Byl začátek prosince, ambulantní RHB bylo možné začít navštěvovat až v půli ledna a babička jen posedávala, poskakovala s berlemi po jedné noze a většinu času trávila bez pohybu. Noha byla více oteklá i bolestivější. Pomoc byla v nedohlednu. Soňa jako fyzioterapeutka byla v tuto dobu naše záchrana. Nebylo možné sehnat v předvánoční čas termín na ambulantní rehabilitaci, natož mobilního fyzioterapeuta, který by přijel k vám domů na vesnici. Po třech návštěvách se vše začalo obracet k lepšímu. Babička cvičila, byly ji doporučeny pomůcky, nacvičily spolu správnější chůzi, Soňa nám také doporučila nějaké krémy, pomůcky, které jsme mohli využít doma a vše se pomalu začalo lepšit. Věděli jsme, že to bylo pro babičku velmi prospěšné řešení, a hlavně preventivní opatření k zamezení nějakých dalších komplikací, něž by se dostala po měsíci a půl někam na ambulantní RHB. Vše dobře dopadlo a stačilo pár návštěv.  Děkujeme za možnost využít takovouto službu a zlepšit tak rekonvalescenci člena naší rodiny. Určitě můžeme S.Č. jako fyzioterapeutku doporučit, pomůže nejen pacientovi, ale i rodině. Vše ochotně vysvětlí.</p><p><b>H</b><b style=\"font-size: 1.09rem;\">. H. prodavačka biopotravin</b></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rYYpAAhffo",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {},
           "_anchor": "content2-2o"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            "DIV": {
+              "color": "#232323"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p>K Soně Čapské jsem začal chodit s bolestí hlavy a krční páteří. Po prodělaných RHB na různých klinikách je to terapeutka, u které se mi vždy uleví, má na mě dostatek času a její celkový přístup mi velmi vyhovuje. Vždy mi poradila nejen po stránce fyzické, ale také stránce psychosomatické. S bolestí krku a hlavy se dostáváme při terapiích na místa jako bránice, nebo akupresuru na břiše, prstech nebo dlaních. Někdy i krátkým meditacím nebo zajímavým vhledům. Bylo to pro mě na začátku nové a neznámé, ale hlavně ulevující od bolesti a napětí. Získala si moji důvěru. Proto její služby využívám pravidelně k udržení lepší hybnosti a k prevenci bolesti. Vím, kam se můžu obrátit, když mě něco trápí. Vřele S.Č. doporučuji. Nejen jako fyzioterapeutku s širokými zajímavými vědomostmi, ale i šikovnou masérku.\n</p><p><b>M.S. podnikatel\n</b></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content2-2w",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rZwJyxCvK7",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            "DIV": {
+              "color": "#232323"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p>Soňa Čapská je mojí osobní fyzioterapeutkou a masérkou od roku 2002. Toho roku jsem měla úraz, otevřená zlomenina klíční kosti. Několik dlouhých týdnů po úrazu jsem musela nosit korzet a po jeho odložení jsem chtěla začít s intenzivnější rehabilitací, protože mě velmi bolely záda a celkově jsem byla oslabena po fyzické stránce. V té době jsem Soňu kontaktovala a domluvila si u ní lekce fyzioterapie. Naučila jsem se, jak správně cvičit, protahovat a posilovat, jak vyrovnat disbalance ve svalech. Pomocí pravidelných masáží a doporučeného plavání přišla brzy úleva. Celkově mi kombinace společných terapií a plavání pomohla i od předešlých problémů se zády, které jsem měla prakticky celé dospívání.  Dlouhodobě žiji v zahraničí a pokaždé, když přijedu do ČR tak Soňu vyhledám na sezení nějaké manuální terapie, buď pro relaxaci, nebo k preventivní nápravě. S.Č. mohu jen doporučit, Nejen jako profesionální fyzioterapeutku, ale i velmi zručnou masérku.\n</p><p><b>E.Č. sociální pracovnice\n</b></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content2-2x",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rZwKDLve1e",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
         },
         {
           "alias": false,
