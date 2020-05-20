@@ -1,8 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://rehahome.cz/ome.html</loc>
-	</url>
-	<url>
 		<loc>https://rehahome.cz/CV.html</loc>
 	</url>
 	<url>
@@ -12,15 +9,18 @@
 		<loc>https://rehahome.cz/cenik.html</loc>
 	</url>
 	<url>
-		<loc>https://rehahome.cz/page7.html</loc>
-	</url>
-	<url>
-		<loc>https://rehahome.cz/page8.html</loc>
-	</url>
-	<url>
 		<loc>https://rehahome.cz/index.html</loc>
 	</url>
 	<url>
-		<loc>https://rehahome.cz/page9.html</loc>
+		<loc>https://rehahome.cz/reference.html</loc>
+	</url>
+	<url>
+		<loc>https://rehahome.cz/omne.html</loc>
+	</url>
+	<url>
+		<loc>https://rehahome.cz/GDPR.html</loc>
+	</url>
+	<url>
+		<loc>https://rehahome.cz/kontakt.html</loc>
 	</url>
 </urlset>
